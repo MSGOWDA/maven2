@@ -35,7 +35,8 @@ Running `mvn compile` produces a class file:
     murphy:my-app pdurbin$ 
     murphy:my-app pdurbin$ java -cp target/classes com.mycompany.app.App
     Hello World!
-    
+    hello world
+    git is working
     
     
     Adding something to this read me files
